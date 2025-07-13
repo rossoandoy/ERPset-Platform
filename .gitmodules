@@ -1,0 +1,3 @@
+[submodule "legacy-tool/erp-hearing-tool"]
+	path = legacy-tool/erp-hearing-tool
+	url = https://github.com/rossoandoy/erp-hearing-tool.git
